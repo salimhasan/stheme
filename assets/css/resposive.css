@@ -1,0 +1,46 @@
+@media(min-width:992px) and (max-width:1199px){
+    
+    
+    
+}
+
+@media(max-width:991px){
+     
+    #pricing .table:hover{
+    transform: none;
+    } 
+    
+    .counter-box{
+        margin-top: 20px;
+    }
+    
+    
+    
+}
+
+
+@media(min-width:768px){
+    
+    
+    
+    
+}
+
+@media(max-width:767px){
+    .text-wrapper{
+        margin-bottom: 40px;
+        padding-left: 30px;
+    }
+    
+    .team-item{
+            margin: 10px;
+    }
+    
+    .contact-right-area{
+        margin-left: 0;
+        margin-top: 25px;
+    }
+    
+    
+    
+}
